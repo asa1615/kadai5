@@ -95,10 +95,16 @@ JavaScript Object Notatin
 {}の中にキーと値をコロンで区切って記述する。キーは必ずダブルクオーテーションで区切る必要がある。    
 {“key1” : “value1”, “key2” : “value2”}  
 ```JSON
-[  
-{"id":"1","name":"suzuki"},  
-{"id":"2","name":"takahashi"}  
-]  
+[
+   {
+      "id":"1",
+      "name":"suzuki"
+   },
+   {
+      "id":"2",
+      "name":"takahashi"
+   }
+]
 ```
 
 
