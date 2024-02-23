@@ -83,11 +83,9 @@ HTTPリクエストの結果を表す3桁の数字
 HTTPリクエストを構成する部品のひとつ。  
 お願い事やお願い元に関することが書かれている場所。
 
-## JSON  
+## JSONとは  
 JavaScript Object Notatin  
-構造化したデータを表すためのデータ記述言語のひとつ。  
-
-※書式がJavaScriptに従ったものとなっているだけで、JavaScript専用ということではない。  
+構造化したデータを表すためのデータ記述言語のひとつ。    
 
 特徴
 - データとして文字列以外に、数値や空（Null）データなども扱うことが可能。
@@ -104,11 +102,12 @@ JavaScript Object Notatin
 ```
 
 
-参照資料  
-https://developer.mozilla.org/ja/  
-https://wa3.i-3-i.info/  
-https://products.sint.co.jp/topsic/blog/json
-https://lifrell.co.jp/methods/whatishttpstatuscode/  
- 
-イラスト図解式この一冊で全部分かるWeb技術の基本  
+参照資料    
+- Webページ  
+  - [MDN Web Docs](https://developer.mozilla.org/ja/)    
+  - [「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/)    
+  - [topsic](https://products.sint.co.jp/topsic/blog/json)      
+  - [lifrell](https://lifrell.co.jp/methods/whatishttpstatuscode/)  
+- 書籍 
+  - イラスト図解式この一冊で全部分かるWeb技術の基本  
 
